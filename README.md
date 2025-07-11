@@ -1,11 +1,9 @@
 # Gradient Descent for Linear Regression (Pure Python Implementation)
 
-![Algorithm Visualization](https://miro.medium.com/max/1400/1*7QS7ap8lq4KXGYEVsP3Q2w.gif)  
-*Visualization of gradient descent optimization*
 
 ## Description
 
-This repository contains a pure Python implementation of batch gradient descent for linear regression, intentionally avoiding NumPy to demonstrate the fundamental mathematics. The implementation solves for parameters `w` (weight) and `b` (bias) in the linear equation `y = wx + b` by minimizing the Mean Squared Error (MSE) loss function.
+This repository contains a pure Python implementation of batch gradient descent for linear regression, only NumPy is used to demonstrate the fundamental mathematics. The implementation solves for parameters `w` (weight) and `b` (bias) in the linear equation `y = wx + b` by minimizing the Mean Squared Error (MSE) loss function.
 
 ## Features
 
@@ -13,7 +11,7 @@ This repository contains a pure Python implementation of batch gradient descent 
 - 📉 **Batch Gradient Descent** - Processes all training samples each iteration
 - 📊 **Loss Tracking** - Monitors MSE loss during training
 - 🔍 **Transparent** - Clearly shows each mathematical operation
-- 🎯 **Educational Focus & Pure Producti** - Designed for learning fundamentals
+- 🎯 **Educational Focus & Pure Production** - Designed for learning fundamentals
 
 ## Installation
 
@@ -78,7 +76,7 @@ for epoch in range(400):
 ```
 ### Math Behind the sene
 
-<img src="./Formula.png" />
+<img src="./Assets/Formula.png" />
 
 ## API refrences
 
