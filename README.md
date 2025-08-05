@@ -16,7 +16,7 @@ This repository contains a pure Python implementation of batch gradient descent 
 ## Installation
 
 Numpy and clone and run:
-
+1. dependencies: numpy@latest
 Windows:
 ```py
 pip install numpy
@@ -25,7 +25,7 @@ Linux or Mac:
 ```py
 pip3 install numpy
 ```
-
+2. clone: (this project isn't supported by any package manager/downloadable)
 ```bash
 git clone https://github.com/epicbruh11111/Gradient-Descent_Ml.git
 cd Gradient-Descent_Ml/src/
