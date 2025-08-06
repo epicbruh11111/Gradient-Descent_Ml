@@ -13,6 +13,16 @@ This repository contains a pure Python implementation of batch gradient descent 
 - 🔍 **Transparent** - Clearly shows each mathematical operation
 - 🎯 **Educational Focus & Pure Production** - Designed for learning fundamentals
 
+## Whats new?  
+- c++ integration for faster preformance But lack of documnetation and support because of my few experience with c++ in general  
+
+## C++ Version:  
+- proformance
+- lack of documentation (its recommended to look at the python version with the full doc in this README.md before getting into this c++ version)
+- not packaged support ☹️
+- Great with ML projects which are working in pure C/C++
+- not a header file, so you have to refactor it into hpp or just blend it with your code
+
 ## Installation
 
 Numpy and clone and run:
