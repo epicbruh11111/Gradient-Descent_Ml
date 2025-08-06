@@ -18,4 +18,4 @@
 
 
 ## Stable Versions: 1.5 & 2
-## Not stable: 0.1 & 0.5 & 1
+## Not Supported Versions: 0.1 & 0.5 & 1
